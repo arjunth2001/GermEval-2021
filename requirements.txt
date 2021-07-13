@@ -1,0 +1,14 @@
+Unidecode==1.2.0
+language_tool_python==2.4.0
+numpy==1.18.5
+tqdm==4.61.1
+silence_tensorflow==1.1.1
+gensim==4.0.1
+pandas==1.2.4
+googletrans==3.1.0a0
+transformers==4.7.0
+tensorflow==2.3.0
+nltk==3.6.2
+tokenizers==0.10.3
+readability_lxml==0.8.1
+scikit_learn==0.24.2
